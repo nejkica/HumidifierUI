@@ -5,4 +5,6 @@ Home made humidifier with poweful output - this is the code for the User Interfa
 3. Custom electronics
 4. Custom made hardware - glass humidifier with 3d printed cover and 24VDC fans carrying humidity in the living room.
 
+![React UI for humidifier](Hardware/IMG_0711.jpg)
+
 Will post images later ...
