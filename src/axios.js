@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const naslov = 'http://192.168.123.184:3000/';
+const naslov = 'https://vlazilnik.kookaburra.si/';
 
 const pridobiPodatke = (termin, koncniCas, cb) => {
 	axios.get(naslov + 'd/' + termin + '/' + koncniCas)
