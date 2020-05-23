@@ -1,0 +1,35 @@
+.loaderDeka {
+	position: absolute;
+	background-color: #CBCBCB;
+	opacity: 0.3;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 100;
+	visibility: hidden;
+	
+	display: flex;
+    flex-direction: row;
+    /*flex-wrap: wrap;*/
+    justify-content: center;
+    align-items: center;
+}
+
+.loaderKrog {
+	position: absolute;
+	margin: auto;
+	border: 20px solid #868686; /* Light grey */
+	border-top: 20px solid #19ABFF; /* Blue */
+	border-radius: 50%;
+	width: 120px;
+	height: 120px;
+	animation: spin .8s linear infinite;
+	opacity: 1;
+	
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

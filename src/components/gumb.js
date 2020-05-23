@@ -1,11 +1,13 @@
 import React from 'react';
-
+import '../style/gumb.css';
 
 const Gumb = (props) => {
 
 	return (
 		<div className="gumb" onClick={ props.spremeni }>
-			Gumb { props.test }
+			<span className="gumbText">
+				{ props.opis }
+			</span>	
 		</div>
 	)
 

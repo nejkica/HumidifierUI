@@ -1,0 +1,31 @@
+.gumb {
+	height: 80%;
+	width: 30vw;
+	bottom: 0;
+	background-color: #282c35;
+	color: #CDCDCD;
+	font-size: 5vmin;
+	display: flex;
+	flex-direction: column;
+	border: 1px grey solid;
+	border-radius: 15px;
+	margin: auto;
+}
+
+.gumb:hover {
+	background-color:#838383;
+}
+
+.gumbText {
+	margin: auto;
+}
+
+.gumbi {
+	height: 10vh;
+	display: flex;
+	flex-direction: row;
+	text-transform: capitalize;
+	background-color: #282c35;
+	vertical-align: middle;
+	justify-content: space-around;
+}

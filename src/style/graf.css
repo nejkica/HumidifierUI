@@ -1,0 +1,29 @@
+.grafWrap {
+	width: 100vw;
+	height: 90vh;
+	background-color: #282c35;
+	color: #3561F0;
+	top: 0;
+	left: 0;
+	bottom: 10vh;
+	overflow-x: scroll;
+	direction: rtl;
+	scroll-behavior: smooth;
+}
+
+.chartjs-render-monitor, 
+.chartjs-size-monitor {
+	/*height: 90%;*/
+	width: 100%;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	direction: rtl;
+}
+
+.grafAreaWrapper {
+	position: relative; /* nujno, da se lahko pravilno resize-a chart */
+	height: 95%;
+	width: 200vw;
+	direction: rtl;
+}
