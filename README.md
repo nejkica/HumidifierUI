@@ -4,7 +4,7 @@ Home made humidifier with poweful output - this is the code for the User Interfa
 2. Raspberry Pi Zero W - as the controller with hooked up DHT22 humidity and termperature sensor.
 3. Custom electronics
 4. Custom made hardware - glass humidifier with 3d printed cover and 24VDC fans carrying humidity in the living room.
-5. Water preparation with RO buddie Reverse Osmosis.
+5. Water preparation with RO buddie Reverse Osmosis UV light for desinfection.
 
 UI web page made with React:
 
