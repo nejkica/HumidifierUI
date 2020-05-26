@@ -9,4 +9,9 @@ Home made humidifier with poweful output - this is the code for the User Interfa
 ![React UI for humidifier](Hardware/IMG_0712.jpg)
 
 
+![React UI for humidifier](Hardware/IMG_0266.jpg)
+![React UI for humidifier](Hardware/IMG_0267.jpg)
+![React UI for humidifier](Hardware/IMG_0271.jpg)
+![React UI for humidifier](Hardware/IMG_0288.jpg)
+
 Will post images later ...
